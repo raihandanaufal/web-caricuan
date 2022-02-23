@@ -15,7 +15,8 @@
       <div class="forms-container">
         <div class="signin-signup">
           <form action="#" class="sign-in-form">
-            <h2 class="title">Welcome to Cari.Cuan <br> Sign in</h2>
+            <img src="img/cclogo.png" class="image" alt="" style="width: 30%; margin-bottom: 10px"/>
+            <h2 class="title" style="text-align: center"> Welcome to Cari.Cuan <br> Sign in</h2>
             <div class="input-field">
               <i class="fas fa-user"></i>
               <input type="text" placeholder="Username" />
